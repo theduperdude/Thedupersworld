@@ -1,0 +1,70 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Best Dupeing Service</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #111;
+      color: #f2f2f2;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+    }
+    header {
+      background: #222;
+      padding: 20px;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2em;
+      color: #00ffcc;
+    }
+    .content {
+      padding: 30px;
+      max-width: 800px;
+      margin: auto;
+    }
+    .promo {
+      background: #1a1a1a;
+      border-left: 4px solid #00ffcc;
+      padding: 15px;
+      margin: 20px 0;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      background: #222;
+      font-size: 0.9em;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Best Dupeing Service</h1>
+    <p>Top-tier DayZ dupe kits & deals</p>
+  </header>
+
+  <div class="content">
+    <p>Welcome to the best DayZ dupeing service online! We offer the highest level of customer service and unbeatable deals.</p>
+    
+    <div class="promo">
+      <strong>Current Offers:</strong>
+      <ul>
+        <li>Buy 5 dupes/kits – Get 1 free of your choosing</li>
+        <li>Bring 5 friends who purchase – Get 2 free dupes/kits</li>
+        <li>Refer 10 friends who buy multiple dupes – Get a personal alt who stays anywhere you want and will dupe for half price for a month</li>
+      </ul>
+    </div>
+
+    <p>Contact us via social media or in-game to get started!</p>
+  </div>
+
+  <footer>
+    &copy; 2025 Best Dupeing Service. All rights reserved.
+  </footer>
+</body>
+</html>
